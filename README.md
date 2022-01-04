@@ -7,7 +7,7 @@ Essa é uma solução para [Huddle landing page with single introductory section
 - [Visão Geral](#Visão-Geral)
   - [O desafio](#O-desafio)
 - [Meu Processo](#Meu-Processo)
-  - [Construção por:](#Construção-por:)
+  - [Construção por](#Construção-por)
   - [O que aprendi?](#O-que-aprendi?)
 - [Autor](#Autor)
 
@@ -22,7 +22,7 @@ Usuários devem ser capazes de:
 
 ## Meu Processo
 
-### Construção por:
+### Construção por
 
 - HTML5
 - Propriedades customizadas do CSS
